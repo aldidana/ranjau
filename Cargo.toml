@@ -1,0 +1,8 @@
+[package]
+name = "ranjau"
+version = "0.1.0"
+authors = ["madgeek <aldidana@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.0"
